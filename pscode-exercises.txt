@@ -16,8 +16,8 @@ print answer
 
 read any 5 numbers from 0-100
 Average: number 1 + number 2 + number 3 + number 4 + number 5 / 5 = average
-find the minimum number of the 5 
-find the maxmimum number of the 5
+MIN: if number 1 < number 2, number 3, number 4, number 5 = MIN
+MAX: if number 5 > number 1, number 2, number 3, number 4 = MAX
 
 print (average)
 print (minimum)
